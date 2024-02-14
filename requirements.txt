@@ -1,0 +1,12 @@
+# Libraries Needed for Baseline Code
+numpy
+ipython
+librosa
+torchaudio
+glob2
+tqdm
+shap
+pandas
+xgboost
+scikit-learn
+matplotlib
