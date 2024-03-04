@@ -10,6 +10,7 @@ pandas
 xgboost
 scikit-learn
 matplotlib
+opensmile
 
 # Multi-Procesing
 joblib
