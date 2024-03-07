@@ -11,6 +11,8 @@ xgboost
 scikit-learn
 matplotlib
 opensmile
+scipy
+spafe
 
 # Multi-Procesing
 joblib
