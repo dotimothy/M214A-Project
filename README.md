@@ -1,6 +1,6 @@
 # [M214A-Project](https://github.com/dotimothy/M214A-Project)
-Final Project Repository of M214A for Winter Quarter 2024. Task: Dialect Region Classification of African American Speakers in the CORAAL Dataset
-Authors: Keith Chen, [Timothy Do](https://timothydo.me), [James Shiffer](https://jshiffer.xyz), Thomas Sison
+Final Project Repository of M214A for Winter Quarter 2024. Task: Dialect Region Classification of African American Speakers in the CORAAL Dataset <br> <br>
+**Authors:** Keith Chen, [Timothy Do](https://timothydo.me), [James Shiffer](https://jshiffer.xyz), Thomas Sison
 
 ## Dependencies
 The dependencies with specific versions for this project is listed under <code>requirements.txt</code>.
