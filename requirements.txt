@@ -1,18 +1,21 @@
-# Libraries Needed for Baseline Code
-numpy
-ipython
-librosa
-torchaudio
-glob2
-tqdm
-shap
-pandas
-xgboost
-scikit-learn
-matplotlib
-opensmile
-scipy
-spafe
+# Libraries Needed for Baseline Code (using Python 3.11)
+numpy==1.26.4
+ipython==8.22.2
+librosa==0.10.1
+torchaudio==2.1.0+cu121 # Generally Without CUDA should be OK.
+glob2==0.7
+tqdm==4.66.2
+shap==0.44.1
+pandas==2.2.1
+xgboost==2.0.3
+scikit-learn==1.4.1.post1
+matplotlib==3.8.3
+
+
+# Additional Libraries for Advanced Features
+opensmile==2.5.0
+scipy==1.12.0
+spafe==0.3.2
 
 # Multi-Procesing
-joblib
+joblib==1.3.2
